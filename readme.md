@@ -13,14 +13,19 @@ Examples of interface and output:
 ## Features
 * Creating characters with personality setup
 * Online character library
-* Choosing name and avatar for your character
-* Deleting and regenerating messages
-* Editing any messages
-* Works with various AI models
-* Importing chats from CAI
-* More longer messages from characters
+* Supporting chat with multiple characters simultaneously
+* Flexible settings for AI models
+* Story mode
+* World Info
+* Swipes
 * Choosing atmospheric backgrounds
-* Creating and easy choosing preset settings
+* Editing/Deleting/Moving any messages
+* KoboldAI Support
+* Horde Support
+* NovelAI support
+* OpenAI Support
+* Reverse Proxy server support
+
 
 ## How to install
 ### In Detail:
@@ -43,7 +48,8 @@ Use this button to edit the message<br><br>
 If the message is not finished, you can simply send the request again, TavernAI will understand that this is a continuation. <br>(Works with KoboldAI and NovelAI models, not with Pygmalion)<br>
 <br><img src="readme/2.png" width="600" />
 ## Additional materials
-https://www.reddit.com/user/Crataco/comments/zuowi9/opensource_chatbot_companions/
+* [FAQ](https://github.com/TavernAI/TavernAI/blob/main/faq.md)
+* [https://www.reddit.com/user/Crataco/comments/zuowi9/opensource_chatbot_companions/](https://github.com/TavernAI/TavernAI/blob/main/faq.md)
 ## For contacts
 * Discord: Humi#5044
 <br><br><br>
